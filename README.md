@@ -31,17 +31,6 @@ $ cat perfil.txt
 
 <br>
 
-## 📡&nbsp; github_stats.log
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Seixas-1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0E27&title_color=00D9FF&icon_color=00D9FF&text_color=E8FBFF" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seixas-1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0E27&title_color=00D9FF&text_color=E8FBFF" />
-
-</div>
-
-<br>
-
 ## 📫&nbsp; contato.cfg
 
 <div align="center">
