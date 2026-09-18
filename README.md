@@ -13,7 +13,7 @@
 ```bash
 $ cat perfil.txt
 > nome        : Enzo Seixas
-> formacao    : Analise e Desenvolvimento de Sistemas - FIAP
+> formacao    : Cybersecurity - FIAP
 > foco        : Ciberseguranca, Redes, SQL/NoSQL, Automacao com Python
 > status      : [ONLINE] estudando e evoluindo todos os dias
 > curiosidade : sempre com um lab aberto em segundo plano
