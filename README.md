@@ -50,7 +50,6 @@ $ cat perfil.txt
 
 </div>
 
-<p align="center"><sub>💼 LinkedIn disponível na barra lateral do meu perfil do GitHub</sub></p>
 
 <div align="center">
 
